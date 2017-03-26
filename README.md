@@ -12,7 +12,7 @@ In this project, we're going to switch from using a `<table>` for layout to a be
  1. Follow along with the video linked from Canvas
  1. We will explore some more CSS, the following diagram of the HTML Box Model will be useful:
 
- <img src="HTML_Box_Model.png" width="400">
+ <img src="HTML_Box_Model.png" width="600">
 
 ## From table to grid
 
